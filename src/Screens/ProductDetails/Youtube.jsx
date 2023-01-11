@@ -4,7 +4,6 @@ import "./Youtube.css";
 
 function Youtube({ youtube }) {
 
-  console.log(youtube)
 
   return (
     <div>
