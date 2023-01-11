@@ -1,0 +1,13 @@
+@media only screen and (min-width: 768px) {
+
+    .youtubeFrame {
+       height: 500px;
+    }
+
+    .youtubeFrameContaier {
+        display: flex;
+        flex-direction: row;
+        gap: 10px  
+    }
+
+}
