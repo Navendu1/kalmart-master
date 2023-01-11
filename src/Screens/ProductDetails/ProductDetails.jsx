@@ -22,7 +22,6 @@ function ProductDetails() {
 
   const { state } = useLocation()
   const peoductByBrand = async(e) => {
-    alert(e)
 
     await axios.post(baseUrl+route+getProductByBrand,{
         brandName:e
