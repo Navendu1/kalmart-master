@@ -113,7 +113,8 @@ function ProductDetails() {
           }}
         >
           <button
-          onClick={()=>window.open(`tel:900300400`)}
+          // this the phone number 
+          onClick={()=>window.open(`tel:9564144396`)}
             style={{
               backgroundColor: "#196ddb",
               width: "100%",
@@ -149,8 +150,8 @@ function ProductDetails() {
           </button>
 
           <button
-
-          onClick={()=>window.open('https://wa.me/919876543210/?text=Hi Sam, Whatsup')}
+//this is the wwhatsapps number
+          onClick={()=>window.open('https://wa.me/919564144396/?text=Hi thare')}
             style={{
               backgroundColor: "#44eb61",
               width: "100%",
