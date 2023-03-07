@@ -14,7 +14,7 @@ function About() {
         unit, a molding unit, and a curing unit. They can be operated manually
         or automatically, and can produce a variety of different types and sizes
         of bricks.
-        add 
+        add mnn 
       </p>
 
       <p>
