@@ -21,7 +21,7 @@ function Hader() {
              <p style={{fontWeight:'600',left:"-30px"}}>       M/s Maiti Mercantile</p>
 
                 </div>
-                <div className='click'>
+                <div className='click' onClick={()=>navigate('/About')}>
                     {/* onclick  goto login page*/}
                     <p style={{fontWeight:'400',marginRight:"10px"}}>   about us    </p>                </div>
             </div>

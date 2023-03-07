@@ -22,7 +22,7 @@ function App () {
           <Route path='/productDetails/:id' element={<ProductDetails/>} />
           
           <Route path='/allProduct' element={<AllProduct/>} />
-          <Route exact path="/About" element={<About />} />
+          <Route  path="/About" element={<About />} />
         </Routes>
        
        <Footer/>
